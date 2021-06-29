@@ -1,4 +1,4 @@
-# Vagetoz - BAM (Cover by Anggi Dnps)
+# Vagetoz - Betapa Aku Mencintaimu (BAM) [Cover by Anggi Dnps]
 ## Teknologi
 - Vara.js
 - FontAwesome
