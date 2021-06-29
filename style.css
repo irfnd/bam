@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f6bd60;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  margin-top: 5px;
+}
+
+.content {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
